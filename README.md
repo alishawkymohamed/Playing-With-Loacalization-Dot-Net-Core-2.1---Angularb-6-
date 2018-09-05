@@ -1,5 +1,4 @@
-# Playing-With-Loacalization-Dot-Net-Core-2.1---Angularb-6-
-Playing With Loacalization (Dot Net Core 2.1 - Angularb 6)
+#Playing With Loacalization (Dot Net Core 2.1 - Angularb 6)
 
 1- Clone Project
 
