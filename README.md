@@ -2,8 +2,10 @@
 
 1- Clone Project
 
-2- Open BackEndApp > BackEndApp Folder and run command
+2- Open (BackEndApp > BackEndApp) Folder and run command
   "Dotnet restore"
+Then Open (BackEndApp > BackEndApp > DbContext) in powershell and run this command
+"dotnet ef database update"
 
 3- Run "Dotnet run" Command
 
