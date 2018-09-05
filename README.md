@@ -1,4 +1,4 @@
-# Playing With Loacalization (Dot Net Core 2.1 - Angular 6)
+# Playing With Localization (Dot Net Core 2.1 - Angular 6)
 
 1- Clone Project
 
