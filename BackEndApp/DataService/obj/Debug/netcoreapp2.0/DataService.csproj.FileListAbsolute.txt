@@ -1,0 +1,14 @@
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\bin\Debug\netcoreapp2.0\DbContext.dll
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\bin\Debug\netcoreapp2.0\IDataService.dll
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\bin\Debug\netcoreapp2.0\DbContext.pdb
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\bin\Debug\netcoreapp2.0\IDataService.pdb
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\obj\Debug\netcoreapp2.0\DataService.csproj.CopyComplete
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DataService\obj\Debug\netcoreapp2.0\DataService.csprojAssemblyReference.cache

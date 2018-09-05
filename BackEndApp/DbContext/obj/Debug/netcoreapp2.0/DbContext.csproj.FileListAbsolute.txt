@@ -1,0 +1,11 @@
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\bin\Debug\netcoreapp2.0\DbContext.deps.json
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\bin\Debug\netcoreapp2.0\DbContext.dll
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\obj\Debug\netcoreapp2.0\DbContext.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\obj\Debug\netcoreapp2.0\DbContext.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\obj\Debug\netcoreapp2.0\DbContext.AssemblyInfo.cs
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\bin\Debug\netcoreapp2.0\DbContext.runtimeconfig.json
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\bin\Debug\netcoreapp2.0\DbContext.runtimeconfig.dev.json
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\bin\Debug\netcoreapp2.0\DbContext.pdb
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\obj\Debug\netcoreapp2.0\DbContext.dll
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\obj\Debug\netcoreapp2.0\DbContext.pdb
+C:\Users\Ali\Desktop\EvaluationTask\BackEndApp\DbContext\obj\Debug\netcoreapp2.0\DbContext.csprojAssemblyReference.cache

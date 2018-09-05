@@ -1,0 +1,45 @@
+<br>
+<app-change-language (DDLChanged)="DDLChanged($event);">
+</app-change-language>
+<br>
+<br>
+<form *ngIf="dept" [formGroup]="EditForm" (ngSubmit)="submitHandler()">
+  <div class="form-group">
+    <label for="exampleInputEmail1">{{'DepartmentName' | translate}}</label>
+    <input type="text" formControlName="name" class="form-control" id="exampleInputEmail1">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">{{'DepartmentDescription' | translate}}</label>
+    <input type="text" formControlName="description" class="form-control" id="exampleInputPassword1">
+  </div>
+
+  <br>
+  <br>
+  <input class="btn btn-primary" [disabled]="EditForm.invalid" type="submit" value="{{'Save' | translate}}">
+</form>
+<br>
+<!-- Button trigger modal -->
+<button hidden type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" #toggleBtn>
+  Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        Attention .. The Values Changed !!
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="DiscardChanges()" #closeModal>Discard</button>
+        <button type="button" class="btn btn-primary" (click)="submitHandler()">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
